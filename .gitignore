@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+build/msvs2017/x64/
+build/msvs2017/.vs/
+bin/wxTestLab.pdb
+bin/wxTestLab.ilk
